@@ -1,4 +1,4 @@
-# web_lab1
+# bool查询和语义检索
 ## 语言
 python 3.7.3<br>
 ## bool查询
